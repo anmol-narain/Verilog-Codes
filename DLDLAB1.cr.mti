@@ -1,0 +1,188 @@
+E:/altera1/13.0sp1/down_count.v {1 {vlog -work work E:/altera1/13.0sp1/down_count.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module down_count
+-- Compiling module downcount_testbench
+
+Top level modules:
+	downcount_testbench
+
+} {} {}} E:/altera1/13.0sp1/halfSubtraction.v {2 {vlog -work work E:/altera1/13.0sp1/halfSubtraction.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module hsub
+** Warning: E:/altera1/13.0sp1/halfSubtraction.v(9): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	hsub
+
+} {} {}} E:/altera1/13.0sp1/asun_upcounter_dff.v {1 {vlog -work work E:/altera1/13.0sp1/asun_upcounter_dff.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dff_beh
+-- Compiling module Async_upCounter_D_FF
+
+Top level modules:
+	Async_upCounter_D_FF
+
+} {} {}} E:/altera1/13.0sp1/halfAdder.v {2 {vlog -work work E:/altera1/13.0sp1/halfAdder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module hadd
+** Warning: E:/altera1/13.0sp1/halfAdder.v(8): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	hadd
+
+} {} {}} E:/altera1/13.0sp1/ckt1.v {1 {vlog -work work E:/altera1/13.0sp1/ckt1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module A19BEC0838
+
+Top level modules:
+	A19BEC0838
+
+} {} {}} E:/altera1/13.0sp1/MUX(1).v {1 {vlog -work work E:/altera1/13.0sp1/MUX(1).v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux4_1
+
+Top level modules:
+	mux4_1
+
+} {} {}} E:/altera1/13.0sp1/ckt2.v {2 {vlog -work work E:/altera1/13.0sp1/ckt2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module A19
+** Warning: E:/altera1/13.0sp1/ckt2.v(14): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	A19
+
+} {} {}} E:/altera1/13.0sp1/lab4a.v {1 {vlog -work work E:/altera1/13.0sp1/lab4a.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fa
+
+Top level modules:
+	fa
+
+} {} {}} E:/altera1/13.0sp1/TFF_BEHAV.v {1 {vlog -work work E:/altera1/13.0sp1/TFF_BEHAV.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tff_behv
+
+Top level modules:
+	tff_behv
+
+} {} {}} E:/altera1/13.0sp1/lab4b.v {1 {vlog -work work E:/altera1/13.0sp1/lab4b.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ha2
+-- Compiling module fa2
+
+Top level modules:
+	ha2
+	fa2
+
+} {} {}} E:/altera1/13.0sp1/siso.v {1 {vlog -work work E:/altera1/13.0sp1/siso.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module siso
+
+Top level modules:
+	siso
+
+} {} {}} E:/altera1/13.0sp1/JKFF_Behav.v {1 {vlog -work work E:/altera1/13.0sp1/JKFF_Behav.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module jkff_Behav
+
+Top level modules:
+	jkff_Behav
+
+} {} {}} E:/altera1/13.0sp1/DFF_beh.v {1 {vlog -work work E:/altera1/13.0sp1/DFF_beh.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dff_behv
+
+Top level modules:
+	dff_behv
+
+} {} {}} E:/altera1/13.0sp1/rsff_beh.v {1 {vlog -work work E:/altera1/13.0sp1/rsff_beh.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RSFF_Behav
+
+Top level modules:
+	RSFF_Behav
+
+} {} {}} E:/altera1/13.0sp1/GreytoBinary.v {1 {vlog -work work E:/altera1/13.0sp1/GreytoBinary.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module gToB
+
+Top level modules:
+	gToB
+
+} {} {}} E:/altera1/13.0sp1/up_count_synch.v {1 {vlog -work work E:/altera1/13.0sp1/up_count_synch.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module up_count_syn
+-- Compiling module upcount_testbench
+
+Top level modules:
+	upcount_testbench
+
+} {} {}} E:/altera1/13.0sp1/ParallelAdd4bit.v {1 {vlog -work work E:/altera1/13.0sp1/ParallelAdd4bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FA
+-- Compiling module paralleladder
+
+Top level modules:
+	paralleladder
+
+} {} {}} E:/altera1/13.0sp1/Assign2(MUX).v {2 {vlog -work work E:/altera1/13.0sp1/Assign2(MUX).v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DA2
+** Warning: E:/altera1/13.0sp1/Assign2(MUX).v(10): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	DA2
+
+} {} {}} E:/altera1/13.0sp1/lab3.v {1 {vlog -work work E:/altera1/13.0sp1/lab3.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ckt3
+-- Compiling module ckt3_tb
+
+Top level modules:
+	ckt3_tb
+
+} {} {}} E:/altera1/13.0sp1/sipo.v {1 {vlog -work work E:/altera1/13.0sp1/sipo.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sipo
+
+Top level modules:
+	sipo
+
+} {} {}} E:/altera1/13.0sp1/lab4.v {1 {vlog -work work E:/altera1/13.0sp1/lab4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ha
+-- Compiling module fa1
+
+Top level modules:
+	fa1
+
+} {} {}} E:/altera1/13.0sp1/fulladder.v {1 {vlog -work work E:/altera1/13.0sp1/fulladder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fa_ifelse
+
+Top level modules:
+	fa_ifelse
+
+} {} {}} E:/altera1/13.0sp1/1010_Moore.v {1 {vlog -work work E:/altera1/13.0sp1/1010_Moore.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dff
+-- Compiling module sequence1010_dff
+
+Top level modules:
+	sequence1010_dff
+
+} {} {}} E:/altera1/13.0sp1/Task4.v {1 {vlog -work work E:/altera1/13.0sp1/Task4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decoder_3to8
+-- Compiling module resulttask
+
+Top level modules:
+	decoder_3to8
+	resulttask
+
+} {} {}}
